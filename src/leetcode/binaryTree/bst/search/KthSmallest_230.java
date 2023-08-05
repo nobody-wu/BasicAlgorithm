@@ -1,9 +1,6 @@
-package leetcode.binaryTree.bst;
+package leetcode.binaryTree.bst.search;
 
 import leetcode.binaryTree.TreeNode;
-
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * leetCode第230题：二叉搜索树中第K小的元素
@@ -13,10 +10,10 @@ import java.util.List;
  * @author qingtong
  * @since 2023-08-05 16:24
  **/
-public class KthSmallest {
+public class KthSmallest_230 {
 
     /**
-     * 利用中序遍历的升序排列来解决
+     * 利用中序遍历的升序排列来解决，时间复杂度O(n)
      *
      * @param root
      * @param k
