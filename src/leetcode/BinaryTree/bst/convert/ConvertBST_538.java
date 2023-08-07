@@ -1,6 +1,6 @@
-package leetcode.binaryTree.bst.convert;
+package leetcode.BinaryTree.bst.convert;
 
-import leetcode.binaryTree.TreeNode;
+import leetcode.BinaryTree.TreeNode;
 
 /**
  * leetCode第538题：转换累加树

@@ -1,6 +1,6 @@
-package leetcode.binaryTree.bst.search;
+package leetcode.BinaryTree.bst.search;
 
-import leetcode.binaryTree.TreeNode;
+import leetcode.BinaryTree.TreeNode;
 
 /**
  * 你一棵 完全二叉树 的根节点 root ，求出该树的节点个数。

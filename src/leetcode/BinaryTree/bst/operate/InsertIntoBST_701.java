@@ -1,6 +1,6 @@
-package leetcode.binaryTree.bst.operate;
+package leetcode.BinaryTree.bst.operate;
 
-import leetcode.binaryTree.TreeNode;
+import leetcode.BinaryTree.TreeNode;
 
 /**
  * 在leetCode第700题上进行的扩展

@@ -1,6 +1,6 @@
-package leetcode.binaryTree.bst.search;
+package leetcode.BinaryTree.bst.search;
 
-import leetcode.binaryTree.TreeNode;
+import leetcode.BinaryTree.TreeNode;
 
 /**
  * 剑指Offer_054

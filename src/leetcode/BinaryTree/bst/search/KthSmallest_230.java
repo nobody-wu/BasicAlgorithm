@@ -1,6 +1,6 @@
-package leetcode.binaryTree.bst.search;
+package leetcode.BinaryTree.bst.search;
 
-import leetcode.binaryTree.TreeNode;
+import leetcode.BinaryTree.TreeNode;
 
 /**
  * leetCode第230题：二叉搜索树中第K小的元素

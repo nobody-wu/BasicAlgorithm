@@ -1,6 +1,6 @@
-package leetcode.binaryTree.structure;
+package leetcode.BinaryTree.structure;
 
-import leetcode.binaryTree.TreeNode;
+import leetcode.BinaryTree.TreeNode;
 
 import java.util.HashMap;
 import java.util.Map;

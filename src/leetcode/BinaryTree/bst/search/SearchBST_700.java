@@ -1,6 +1,6 @@
-package leetcode.binaryTree.bst.search;
+package leetcode.BinaryTree.bst.search;
 
-import leetcode.binaryTree.TreeNode;
+import leetcode.BinaryTree.TreeNode;
 
 /**
  * 给定二叉搜索树（BST）的根节点 root 和一个整数值 val。

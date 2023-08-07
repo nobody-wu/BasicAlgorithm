@@ -1,6 +1,6 @@
-package leetcode.binaryTree.bst.valid;
+package leetcode.BinaryTree.bst.valid;
 
-import leetcode.binaryTree.TreeNode;
+import leetcode.BinaryTree.TreeNode;
 
 /**
  * 给你一个二叉树的根节点 root ，判断其是否是一个有效的二叉搜索树。

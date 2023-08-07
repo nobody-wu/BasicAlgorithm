@@ -1,6 +1,6 @@
-package leetcode.binaryTree.structure;
+package leetcode.BinaryTree.structure;
 
-import leetcode.binaryTree.TreeNode;
+import leetcode.BinaryTree.TreeNode;
 
 /**
  * leetCode第654题：最大二叉树

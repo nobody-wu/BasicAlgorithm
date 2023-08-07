@@ -1,4 +1,4 @@
-package leetcode.binaryTree;
+package leetcode.BinaryTree;
 
 /**
  * @author qingtong
