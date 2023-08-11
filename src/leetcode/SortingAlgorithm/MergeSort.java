@@ -1,4 +1,4 @@
-package leetcode.medium.sortingAlgorithm;
+package leetcode.SortingAlgorithm;
 
 import java.util.Arrays;
 

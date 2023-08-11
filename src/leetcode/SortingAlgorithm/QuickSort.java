@@ -1,4 +1,4 @@
-package leetcode.medium.sortingAlgorithm;
+package leetcode.SortingAlgorithm;
 
 /**
  * @author qingtong
@@ -18,7 +18,7 @@ public class QuickSort {
         int j = right;
         while (i < j) {
             while (i < j && nums[j] >= nums[left]) j--;
-            while (i < j && nums[i] <= nums[right]) i++;
+            while (i < j && nums[i] <= nums[left]) i++;
             swap(nums, i, j);
         }
         swap(nums, left, i);
@@ -41,7 +41,7 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        int[] nums = new int[]{1, 2, 3, 8, 6, 234, 3546, 72, 1};
+        int[] nums = new int[]{5,2,4,1,3,6,0};
         sort(nums, 0, nums.length - 1);
         for (int num : nums) {
             System.out.println(num);

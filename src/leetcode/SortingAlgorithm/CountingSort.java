@@ -1,4 +1,4 @@
-package leetcode.medium.sortingAlgorithm;
+package leetcode.SortingAlgorithm;
 
 /**
  * @author qingtong
