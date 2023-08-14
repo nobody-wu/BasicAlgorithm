@@ -41,7 +41,7 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        int[] nums = new int[]{5,2,4,1,3,6,0};
+        int[] nums = new int[]{5,2,4,100,123,56,71,3,6,0,12,234};
         sort(nums, 0, nums.length - 1);
         for (int num : nums) {
             System.out.println(num);
